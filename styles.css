@@ -4,14 +4,16 @@ h1 {
   font-size: 30px;
   text-align: center;
 }
-#header {
+.header {
   background-color: darkgreen;
   text-color: azure;
   text-align: center;
+  padding:10px;
 }
-.section {
+.first {
   border: 1px solid darkgreen;
   background-color: darkgreen;
   text-color: azure;
   text-align: center;
+  padding: 5px;
 }
