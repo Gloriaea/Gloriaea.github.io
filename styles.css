@@ -28,6 +28,10 @@ section.block {
   text-align: center;
   padding: 5px;
 }
+  p.about {
+    text-align: center;
+    font-size: 18px;
+  }
 footer { 
   background-color: #335c33;
   text-align: center;
