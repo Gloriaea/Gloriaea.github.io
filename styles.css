@@ -2,10 +2,11 @@
 body {
   background-image: url("image_0504.png");
 header {
-  background-color: 335c33;
+  bckground-image: url ("image_0504.png");
+  background-color: White;
   font-family: cursive;
   font-size: 30px;
-  color: azure;
+  color: #335c33;
   text-align: center;
   padding:10px;
 }
@@ -13,6 +14,7 @@ nav {
   background-color: white;
   text-align: center;
   font-family: sans-serif;
+  font-size: 12px;
   color: 335c33;
   padding: 2px;
 }
