@@ -6,6 +6,11 @@
   text-align: center;
   padding:10px;
 }
+header.nav {
+  background-color: white;
+  color: azure;
+  padding: 2px;
+}
 section.block {
   width: 200px;
   background-color: #335c33;
@@ -14,4 +19,10 @@ section.block {
   color: azure;
   text-align: center;
   padding: 5px;
+}
+footer { 
+  background-color: #335c33;
+}
+.links {
+  text-align: center;
 }
