@@ -1,8 +1,8 @@
 /* styles1.css*/
 body {
-  background-image: url("image_0504.png");
+  background-image: url("img_0504.png");
 header {
-  bckground-image: url ("image_0504.png");
+  bckground-image: url ("img_0504.png");
   background-color: White;
   font-family: cursive;
   font-size: 30px;
@@ -15,7 +15,7 @@ nav {
   text-align: center;
   font-family: sans-serif;
   font-size: 12px;
-  color: 335c33;
+  color: #335c33;
   padding: 2px;
 }
 section.block {
