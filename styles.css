@@ -2,7 +2,7 @@
 body {
   background-image: url("IMG_0504.png");
 header {
-  bckground-image: url ("IMG_0504.png");
+  bckground-image: url("IMG_0504.png");
   font-family: cursive;
   font-size: 30px;
   color: #335c33;
@@ -10,6 +10,7 @@ header {
   padding:10px;
 }
 nav {
+  margin: 1px;
   background-color: white;
   text-align: center;
   font-family: sans-serif;
