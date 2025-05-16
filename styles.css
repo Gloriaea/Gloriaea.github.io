@@ -12,7 +12,6 @@ header {
 nav {
   margin: 1px;
   background-color: white;
-  display: flex;
   text-align: center;
   font-family: sans-serif;
   font-size: 12px;
@@ -38,6 +37,7 @@ footer {
 }
   button.subscribe {
     background-color: #00b3b3;
+    color: #335c33;
     text-align: center;
     padding:5px;
   }
