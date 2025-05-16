@@ -2,15 +2,16 @@
 .header {
   background-color: darkgreen;
   font-size: 30px;
-  text-color: azure;
+  color: azure;
   text-align: center;
   padding:10px;
 }
 section.block {
-  border: 1px solid darkgreen;
-  background-color: darkgreen;
+  width: 200px;
+  background-color: #335c33;
+  font-family: cursive;
   font-size: 30px;
-  text-color: azure;
+  color: azure;
   text-align: center;
   padding: 5px;
 }
