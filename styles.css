@@ -6,7 +6,7 @@
   text-align: center;
   padding:10px;
 }
-.first {
+section.block {
   border: 1px solid darkgreen;
   background-color: darkgreen;
   font-size: 30px;
