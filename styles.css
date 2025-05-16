@@ -2,16 +2,17 @@
 body {
   background-image: url("image_0504.png");
 header {
-  background-color: darkgreen;
+  background-color: 335c33;
   font-family: cursive;
   font-size: 30px;
   color: azure;
   text-align: center;
   padding:10px;
 }
-header.nav {
+nav {
   background-color: white;
-  color: azure;
+  text-align: center;
+  color: 335c33;
   padding: 2px;
 }
 section.block {
@@ -25,7 +26,5 @@ section.block {
 }
 footer { 
   background-color: #335c33;
-}
-.links {
   text-align: center;
 }
