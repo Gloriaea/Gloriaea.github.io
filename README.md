@@ -1,1 +1,1 @@
-# Gloriaea's website Coming soon
+# Gloriaea's website
