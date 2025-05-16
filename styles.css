@@ -1,6 +1,9 @@
 /* styles1.css*/
-.header {
+body {
+  background-image: url("image_0504.png");
+header {
   background-color: darkgreen;
+  font-family: cursive;
   font-size: 30px;
   color: azure;
   text-align: center;
@@ -12,7 +15,7 @@ header.nav {
   padding: 2px;
 }
 section.block {
-  width: 200px;
+  margin: 10px;
   background-color: #335c33;
   font-family: cursive;
   font-size: 30px;
