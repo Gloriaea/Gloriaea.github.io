@@ -1,11 +1,7 @@
 /* styles1.css*/
-h1 { 
-  color: darkgreen;
-  font-size: 30px;
-  text-align: center;
-}
 .header {
   background-color: darkgreen;
+  font-size: 30px;
   text-color: azure;
   text-align: center;
   padding:10px;
@@ -13,6 +9,7 @@ h1 {
 .first {
   border: 1px solid darkgreen;
   background-color: darkgreen;
+  font-size: 30px;
   text-color: azure;
   text-align: center;
   padding: 5px;
