@@ -17,6 +17,9 @@ nav {
   font-size: 12px;
   color: #335c33;
   padding: 2px;
+  & > a {
+    color : #335c33;
+}
 }
 section.block {
   margin: 10px;
@@ -26,6 +29,9 @@ section.block {
   color: azure;
   text-align: center;
   padding: 5px;
+  & > a {
+    color: azure;
+  }
 }
   p.about {
     text-align: center;
@@ -37,7 +43,7 @@ footer {
   text-align: center;
 }
   button.subscribe {
-    background-color: #00b3b3;
+    background-color: azure;
     color: #335c33;
     text-align: center;
     padding:15px;
