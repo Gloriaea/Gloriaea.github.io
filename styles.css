@@ -1,12 +1,13 @@
 /* styles1.css*/
 h1 { color: darkgreen; font-size: 30px;}
-header {
-  color: darkgreen;
+#header {
+  background-color: darkgreen;
+  text-color: azure;
   text-align: center;
 }
-first {
+.section {
   border: 1px solid darkgreen;
-  color : darkgreen;
+  background-color: darkgreen;
   text-color: azure;
   text-align: center;
 }
