@@ -38,9 +38,12 @@ section.block {
     font-size: 18px;
     padding: 10px;
   }
-    div.column {
-      column-count: 2;
-      column-gap: 10px;
+  .container-standard{
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: aliceblue;
+    padding: auto;
+  }
     div.column1 {
       background-color: azure;
       margin: 2px;
@@ -49,7 +52,6 @@ section.block {
       background-color: azure;
       margin: 2px;
     }
-  }
 footer { 
   background-color: #335c33;
   text-align: center;
