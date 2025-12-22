@@ -44,13 +44,11 @@ section.block {
     background-color: aliceblue;
     padding: auto;
   }
-    div.column1 {
+    .container div {
       background-color: azure;
-      margin: 2px;
-    }
-    div.colomn2 {
-      background-color: azure;
-      margin: 2px;
+      padding: 10px;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 24px;
     }
 footer { 
   background-color: #335c33;
