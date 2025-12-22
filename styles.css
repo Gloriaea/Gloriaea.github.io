@@ -38,10 +38,9 @@ section.block {
     font-size: 18px;
     padding: 10px;
   }
-  .container-standard{
+  .container{
     display: grid;
     grid-template-columns: auto auto;
-    background-color: aliceblue;
     padding: auto;
   }
     .container div {
