@@ -21,6 +21,12 @@ nav {
     text-decoration: none;
 }
 }
+button.buy {
+  background-color: #335c33;
+  padding: 10px;
+  font-family: sans-serif;
+  font-size: 20px;
+}
 section.block {
   margin: 2px;
   background-color: #335c33;
@@ -47,6 +53,7 @@ section.block {
       padding: 10px;
       font-family: sans-serif;
       font-size: 24px;
+      align-content: center;
     }
 footer { 
   background-color: #335c33;
