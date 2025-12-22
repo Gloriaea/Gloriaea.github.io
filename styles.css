@@ -38,10 +38,9 @@ section.block {
     font-size: 18px;
     padding: 10px;
   }
-  section.content {
     div.column {
       column-count: 2;
-    }
+      column-gap: 10px;
     div.column1 {
       background-color: azure;
       margin: 2px;
