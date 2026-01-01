@@ -49,6 +49,8 @@ section.block {
   .container{
     display: grid;
     grid-template-columns: 50% 50%;
+    column-gap: 10px;
+    place-content: center;
     padding: auto;
   }
     .container div {
